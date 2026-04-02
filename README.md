@@ -1,6 +1,6 @@
 # Hi, I'm Andrew 👋
  
-Software Engineer at Starling Bank based in London. Outside of work I enjoy building side projects, endlessly tinkering with my homelab and running.
+Software Engineer at Starling Bank, London. Outside of work I enjoy building side projects, endlessly tinkering with my homelab and running.
  
 ---
  
