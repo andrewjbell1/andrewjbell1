@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Andrew 👋
 
-<!--
-**andrewjbell1/andrewjbell1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer at Starling Bank.
 
-Here are some ideas to get you started:
+Outside of work I enjoy building small projects. You can find more at https://andrewb.dev.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### What I'm working on
+
+- 🤖 A self-hosted health assistant using Oura and Strava data, with a Telegram interface  
+
+---
+
+[LinkedIn](https://linkedin.com/in/andyjackbell)
